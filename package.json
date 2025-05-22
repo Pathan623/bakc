@@ -4,14 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+"start": "node index.js"  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pathan623/bakc.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "dependencies": {
-    "dotenv": "^16.5.0",
-    "express": "^5.1.0"
-  }
+  "bugs": {
+    "url": "https://github.com/Pathan623/bakc/issues"
+  },
+  "homepage": "https://github.com/Pathan623/bakc#readme"
 }
